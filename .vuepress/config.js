@@ -15,14 +15,14 @@ export default defineUserConfig({
         docsBranch: 'main',
         navbar: [{
                 text: '个人仓库',
-                link: 'https://github.com/jimowo',
+                link: 'https://github.com/ZhangChiChen.github.io',
             },
             {
                 text: 'Bilibili',
-                link: 'https://space.bilibili.com/3343507',
+                link: 'https://space.bilibili.com/404477267',
             }
         ],
-        repo: 'jimowo/jimowo.github.io',
+        repo: 'ZhangChiChen/ZhangChiChen.github.io',
         sidebar: [{
                 'text': '前言',
                 'link': '/',

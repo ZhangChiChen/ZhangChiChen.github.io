@@ -8,15 +8,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jimowo/jimowo.github.io.git"
+        "url": "git+https://github.com/ZhangChiChen/ZhangChiChen.github.io.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jimowo/jimowo.github.io/issues"
+        "url": "https://github.com/ZhangChiChen/ZhangChiChen.github.io/issues"
     },
-    "homepage": "https://github.com/jimowo/jimowo.github.io/",
+    "homepage": "https://github.com/ZhangChiChen/ZhangChiChen.github.io/",
     "devDependencies": {
         "@vuepress/plugin-google-analytics": "2.0.0-beta.53",
         "@vuepress/plugin-register-components": "2.0.0-beta.53",
