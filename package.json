@@ -1,0 +1,27 @@
+{
+    "name": "ymk-blog",
+    "version": "1.0.0",
+    "description": "ymk-blog",
+    "scripts": {
+        "dev": "vuepress dev",
+        "build": "vuepress build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jimowo/jimowo.github.io.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jimowo/jimowo.github.io/issues"
+    },
+    "homepage": "https://github.com/jimowo/jimowo.github.io/",
+    "devDependencies": {
+        "@vuepress/plugin-google-analytics": "2.0.0-beta.53",
+        "@vuepress/plugin-register-components": "2.0.0-beta.53",
+        "@vuepress/theme-default": "2.0.0-beta.53",
+        "vue": "^3.2.45",
+        "vuepress": "2.0.0-beta.53"
+    }
+}
