@@ -35,6 +35,7 @@ export default defineUserConfig({
             '设计模式笔记.md',
             'LeetCode 刷题.md',
             'APPENDIX.md',
+            'Git使用笔记.md'
         ],
     }),
     plugins: [
